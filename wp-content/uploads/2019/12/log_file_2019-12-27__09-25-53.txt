@@ -1,0 +1,33 @@
+
+---Downloaded files---
+The import files for: Blog were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/javelin
+Data file = C:\wamp64\www\javelin/wp-content/uploads/2019/12/demo-content-import-file_2019-12-27__09-25-53.xml
+Widget file = C:\wamp64\www\javelin/wp-content/uploads/2019/12/demo-widgets-import-file_2019-12-27__09-25-53.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Blog Widgets : 
+
+Shufflehound Recent Posts - No Title - Widget already exists
+Shufflehound Image V2 - No Title - Widget already exists
+Search - No Title - Widget already exists
+Tag Cloud - Popular tags - Widget already exists
+
+Footer Widgets : 
+
+Shufflehound Information - No Title - Imported
+Shufflehound Recent Posts - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+
